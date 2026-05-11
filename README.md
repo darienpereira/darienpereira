@@ -9,7 +9,6 @@ Hi there 👋
 ---
 
 🔧 Tech Stack
-- Go (Golang)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - React
-- JavaScript
 - Python
