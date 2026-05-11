@@ -2,7 +2,7 @@ Hi there 👋
 
 👨‍💻 I'm Darien, a software engineer based in the UK 
 
-🚀 I work on frontend and backend technologies, namely Golang and React, but also Python and Javascript.
+🚀 I work on frontend and backend technologies, namely Golang, React and Python.
 
 💻 Here I'll be uploading projects and showcasing things i'm currently working on.
 
