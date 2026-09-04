@@ -10,4 +10,4 @@ Welcome to my GitHub profile! I'm a software developer with a focus for creating
 
 🔧 Tech Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
