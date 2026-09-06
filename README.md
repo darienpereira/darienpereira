@@ -1,6 +1,6 @@
 # Hi there, i'm Darien 👋  
 
-🚀 **Full-Stack Developer** | 🌍 **Based in the UK** | 💡 **Focused on building innovative solutions** 
+🚀 **Full-Stack Developer** | 🌍 **Based in the UK** | 💡 **Focused on building** 
 
 Welcome to my GitHub profile! I'm a software developer with a focus for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks. 
 
